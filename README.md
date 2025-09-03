@@ -1,4 +1,4 @@
-# Gigapixel Mathematical Art Generator
+# Gigapixel Mathematical Graph Generator
 
 A high-performance pipeline for generating massive, gigapixel-scale images from mathematical functions. This project leverages a hybrid GPU/CPU rendering approach, tiled processing, and efficient storage backends to create stunningly detailed visualizations that can scale to terapixel sizes.
 Why? **Because I CAN!**
